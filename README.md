@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://haena02.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-0000?style=flat&logo=Tistory&logoColor=000000"/></a>
 
 <!--
 **haenalee0721/haenalee0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
