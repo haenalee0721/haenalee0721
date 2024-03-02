@@ -1,7 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=venom&text=Haena)
+
 <a href="https://haena02.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>
-<a href="https://dccl-ku.github.io/" target="_blank"><img src="https://img.shields.io/badge/DCCL-00599C?style=flat&logo=DCCL&logoColor=white"/></a>
+<a href="https://dccl-ku.github.io/" target="_blank"><img src="https://img.shields.io/badge/DCCL-099DFD?style=flat&logo=DCCL&logoColor=white"/></a>
 
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haena0721)](https://solved.ac/haena0721)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **haenalee0721/haenalee0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
