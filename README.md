@@ -1,6 +1,6 @@
 <a href="https://haena02.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>
-<a href="https://dccl-ku.github.io/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=DCCL&logoColor=white"/></a>
+<a href="https://dccl-ku.github.io/" target="_blank"><img src="https://img.shields.io/badge/DCCL-00599C?style=flat&logo=DCCL&logoColor=white"/></a>
 
 
 <!--
